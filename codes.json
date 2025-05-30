@@ -9,7 +9,7 @@
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "UFO_BOOTH",
-    "MaxUses": 10
+    "MaxUses": 15
   },
     "GALAXYTOWERV2025": {
     "Active": true,
@@ -21,6 +21,12 @@
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "CinRStand",
+    "MaxUses": 35
+  },
+    "STANDSKIN_1_2_1": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Blyat",
     "MaxUses": 35
   },
     "SpeedRunnerPLS055": {
@@ -38,13 +44,13 @@
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "Summer_BOOTH",
-    "MaxUses": 15
+    "MaxUses": 25
   },
   "GOLD_HAMMER2025": {
   "Active": true,
   "RewardType": "Tool",
   "RewardValue": "Gold_Hammer",
-  "MaxUses": 25
+  "MaxUses": 10
   },
   "TorchPanic37": {
     "Active": true,
