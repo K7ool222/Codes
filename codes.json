@@ -14,8 +14,14 @@
     "GALAXYTOWERV2025": {
     "Active": true,
     "RewardType": "Booth",
-    "RewardValue": "B_Galaxy_Redeem",
+    "RewardValue": "B_Galaxy",
     "MaxUses": 25
+  },
+    "CINNROLEB2BOOTH": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "CinRStand",
+    "MaxUses": 35
   },
     "SpeedRunnerPLS055": {
     "Active": true,
