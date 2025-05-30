@@ -31,8 +31,9 @@
   "GOLD_HAMMER2025": {
   "Active": true,
   "RewardType": "Tool",
-  "RewardValue": "Gold_Hammer"
-},
+  "RewardValue": "Gold_Hammer",
+  "MaxUses": 25
+  },
   "TorchPanic37": {
     "Active": true,
     "RewardType": "Points",
