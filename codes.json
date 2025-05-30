@@ -5,6 +5,11 @@
     "RewardValue": 10,
     "MaxUses": 20
   },
+    "DEVABOSOLO2025_P_ALL": {
+    "Active": true,
+    "RewardType": "Points",
+    "RewardValue": 10
+  },
   "ShadowViperX": {
     "Active": true,
     "RewardType": "Booth",
