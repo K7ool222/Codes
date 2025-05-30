@@ -11,6 +11,12 @@
     "RewardValue": "UFO_BOOTH",
     "MaxUses": 10
   },
+    "GALAXYTOWERV2025": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "B_Galaxy_Redeem",
+    "MaxUses": 25
+  },
     "SpeedRunnerPLS055": {
     "Active": true,
     "RewardType": "Tool",
