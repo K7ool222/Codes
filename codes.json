@@ -11,6 +11,12 @@
     "RewardValue": "UFO_BOOTH",
     "MaxUses": 10
   },
+    "SpeedRunnerPLS055": {
+    "Active": true,
+    "RewardType": "Tool",
+    "RewardValue": "Speed",
+    "MaxUses": 35
+  },
   "EchoWarden64": {
     "Active": false,
     "RewardType": "Points",
