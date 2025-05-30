@@ -1,0 +1,17 @@
+{
+  "WELCOME2025x": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "CUTE_BOOTH"
+  },
+  "VIPER2025": {
+    "Active": true,
+    "RewardType": "Points",
+    "RewardValue": 100
+  },
+  "OLD2023": {
+    "Active": false,
+    "RewardType": "Booth",
+    "RewardValue": "OLD_SNOW"
+  }
+}
