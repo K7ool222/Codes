@@ -3,7 +3,7 @@
     "Active": true,
     "RewardType": "Points",
     "RewardValue": 10,
-    "MaxUses": 50
+    "MaxUses": 0
   },
   "ShadowViperX": {
     "Active": true,
