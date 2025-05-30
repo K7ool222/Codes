@@ -9,6 +9,11 @@
     "RewardType": "Points",
     "RewardValue": 100
   },
+    "VIPER2026": {
+    "Active": true,
+    "RewardType": "Points",
+    "RewardValue": 7
+  },
   "OLD2023": {
     "Active": false,
     "RewardType": "Booth",
