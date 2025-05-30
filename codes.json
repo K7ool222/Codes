@@ -22,6 +22,11 @@
     "RewardValue": "Summer_BOOTH",
     "MaxUses": 15
   },
+  "GOLD_HAMMER2025": {
+  "Active": true,
+  "RewardType": "Tool",
+  "RewardValue": "Gold_Hammer"
+},
   "TorchPanic37": {
     "Active": true,
     "RewardType": "Points",
