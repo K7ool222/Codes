@@ -1,27 +1,31 @@
 {
-  "WELCOME2025x": {
-    "Active": true,
-    "RewardType": "Booth",
-    "RewardValue": "CUTE_BOOTH",
-    "MaxUses": 100
-  },
-  "VIPER2025": {
+  "BlazeCricket97": {
     "Active": true,
     "RewardType": "Points",
-    "RewardValue": 100,
-    "MaxUses": 100
+    "RewardValue": 10,
+    "MaxUses": 50
   },
-  "VIPER2026": {
-    "Active": true,
-    "RewardType": "Points",
-    "RewardValue": 7,
-    "MaxUses": 100
-  },
-  "GROUPONLY": {
+  "ShadowViperX": {
     "Active": true,
     "RewardType": "Booth",
-    "RewardValue": "Creature",
-    "GroupId": 11449191,
-    "MinRank": 90
+    "RewardValue": "UFO_BOOTH",
+    "MaxUses": 10
+  },
+  "EchoWarden64": {
+    "Active": false,
+    "RewardType": "Points",
+    "RewardValue": 50
+  },
+  "StormTangle9": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Blyat",
+    "MaxUses": 15
+  },
+  "TorchPanic37": {
+    "Active": true,
+    "RewardType": "Points",
+    "RewardValue": 25,
+    "MaxUses": 10
   }
 }
