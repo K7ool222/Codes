@@ -3,7 +3,7 @@
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "CUTE_BOOTH",
-    "MaxUses": 100,
+    "MaxUses": 100
   },
   "VIPER2025": {
     "Active": true,
@@ -18,10 +18,10 @@
     "MaxUses": 100
   },
   "GROUPONLY": {
-  "Active": true,
-  "RewardType": "Booth",
-  "RewardValue": "Creature",
-  "GroupId": 11449191,
-  "MinRank": 90
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Creature",
+    "GroupId": 11449191,
+    "MinRank": 90
   }
 }
