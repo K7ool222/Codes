@@ -2,21 +2,26 @@
   "WELCOME2025x": {
     "Active": true,
     "RewardType": "Booth",
-    "RewardValue": "CUTE_BOOTH"
+    "RewardValue": "CUTE_BOOTH",
+    "MaxUses": 100,
   },
   "VIPER2025": {
     "Active": true,
     "RewardType": "Points",
-    "RewardValue": 100
+    "RewardValue": 100,
+    "MaxUses": 100
   },
-    "VIPER2026": {
+  "VIPER2026": {
     "Active": true,
     "RewardType": "Points",
-    "RewardValue": 7
+    "RewardValue": 7,
+    "MaxUses": 100
   },
-  "OLD2023": {
-    "Active": false,
-    "RewardType": "Booth",
-    "RewardValue": "OLD_SNOW"
+  "GROUPONLY": {
+  "Active": true,
+  "RewardType": "Booth",
+  "RewardValue": "Creature",
+  "GroupId": 11449191,
+  "MinRank": 90
   }
 }
