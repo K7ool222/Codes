@@ -1,63 +1,63 @@
 {
-  "BlazeCricket972": {
+  "BlazePNT10_X": {
     "Active": true,
     "RewardType": "Points",
     "RewardValue": 10,
     "MaxUses": 20
   },
-    "DEVABOSOLO2025_P_ALLA": {
+    "DevSoloP2_2025": {
     "Active": true,
     "RewardType": "Points",
     "RewardValue": 2
   },
-  "ShadowViperXA": {
+  "UFObooth_X15": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "UFO_BOOTH",
     "MaxUses": 15
   },
-    "GALAXYTOWERV20252": {
+    "GalaxyTWR_B25": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "B_Galaxy",
     "MaxUses": 25
   },
-    "CINNROLEB2BOOTHD": {
+    "CinnRLD_Stand": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "CinRStand",
     "MaxUses": 35
   },
-    "STANDSKIN_1_2_11": {
+    "BlAatSkin_V2": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "Blyat",
     "MaxUses": 35
   },
-    "SpeedRunnerPLS0552": {
+    "SpeedXTool_552": {
     "Active": true,
     "RewardType": "Tool",
     "RewardValue": "Speed",
     "MaxUses": 35
   },
-  "EchoWarden64": {
+  "EchoPNT50_OFF": {
     "Active": false,
     "RewardType": "Points",
     "RewardValue": 50
   },
-  "SUMMER_BOOTH2025": {
+  "SummerBTH_25": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "Summer_BOOTH",
     "MaxUses": 25
   },
-  "GOLD_HAMMER2025": {
+  "GoldHMR_2025": {
   "Active": true,
   "RewardType": "Tool",
   "RewardValue": "Gold_Hammer",
   "MaxUses": 10
   },
-  "TorchPanic371": {
+  "TorchPNT25_LTD": {
     "Active": true,
     "RewardType": "Points",
     "RewardValue": 25,
