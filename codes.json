@@ -10,31 +10,31 @@
     "RewardType": "Points",
     "RewardValue": 2
   },
-  "UFOXbooth_X15": {
+  "_UFOXbooth_X15": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "UFO_BOOTH",
     "MaxUses": 15
   },
-    "GalaxyXTWR_B25": {
+    "_GalaxyXTWR_B25": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "B_Galaxy",
     "MaxUses": 25
   },
-    "CinnRLDX_Stand": {
+    "_CinnRLDX_Stand": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "CinRStand",
     "MaxUses": 35
   },
-    "BlAatSkin_V2": {
+    "_BlAatSkin_V2": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "Blyat",
     "MaxUses": 35
   },
-    "SpeedXXTool_552": {
+    "_SpeedXXTool_552": {
     "Active": true,
     "RewardType": "Tool",
     "RewardValue": "Speed",
@@ -45,19 +45,19 @@
     "RewardType": "Points",
     "RewardValue": 50
   },
-  "SummerXBTH_25": {
+  "_SummerXBTH_25": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "Summer_BOOTH",
     "MaxUses": 25
   },
-  "GoldHMRX_2025": {
+  "_GoldHMRX_2025": {
   "Active": true,
   "RewardType": "Tool",
   "RewardValue": "Gold_Hammer",
   "MaxUses": 10
   },
-  "TorchPXNT25_LTD": {
+  "_TorchPXNT25_LTD": {
     "Active": true,
     "RewardType": "Points",
     "RewardValue": 25,
