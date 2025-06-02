@@ -29,6 +29,30 @@
     "RewardValue": "Beach_Booth",
     "MaxUses": 15
   },
+    "MODERNCELBOOTH_954": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Modern_Booth",
+    "MaxUses": 15
+  },
+    "VALANTINE_NEW_2095_YEAR": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "ValantineBooth",
+    "MaxUses": 15
+  },
+    "PREMIUMBOOTH_OWNERS": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "PremiumBooth",
+    "MaxUses": 5
+  },
+    "BOOTH_HORSE_N2026X": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Booth_Horse",
+    "MaxUses": 15
+  },
     "VOLCANOBOOTH332_1": {
     "Active": true,
     "RewardType": "Booth",
