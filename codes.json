@@ -10,11 +10,35 @@
     "RewardType": "Points",
     "RewardValue": 2
   },
+    "ALDHMSHII": {
+    "Active": true,
+    "RewardType": "Points",
+    "RewardValue": 250,
+    "MaxUses": 25
+  },
   "_UFOXbooth_X15": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "UFO_BOOTH",
     "MaxUses": 15
+  },
+    "BEACHBOOTH_CEL_DEV": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Beach_Booth",
+    "MaxUses": 15
+  },
+    "VOLCANOBOOTH332_1": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Volcano_1",
+    "MaxUses": 15
+  },
+    "VOLCANO_EXTRA_NEW205": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Volcano_2",
+    "MaxUses": 10
   },
     "_GalaxyXTWR_B25": {
     "Active": true,
