@@ -1,21 +1,21 @@
 {
-  "Blaz3eXPNT10_X": {
+  "Blaz13eXPNT10_X": {
     "Active": true,
     "RewardType": "Points",
     "RewardValue": 10,
     "MaxUses": 20
   },
-    "Dev1SoloXP2_2025": {
+    "Dev31SoloXP2_2025": {
     "Active": true,
     "RewardType": "Points",
     "RewardValue": 25,
     "MaxUses": 50
   },
-    "ALDHMSHII": {
+    "ALDHMSHII_v5_Staff_Only": {
     "Active": true,
     "RewardType": "Points",
     "RewardValue": 250,
-    "MaxUses": 1,
+    "MaxUses": 25,
     "GroupId": 11449191,
     "MinRank": 120
   },
@@ -35,63 +35,65 @@
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "Modern_Booth",
-    "MaxUses": 15
+    "MaxUses": 15,
+     "GroupId": 11449191,
+    "MinRank": 60
   },
-    "VALANx1TINE_NEW_2095_YEAR": {
+    "VALANx1TINE_NE1W_2095_YEAR": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "ValantineBooth",
     "MaxUses": 15
   },
-    "PREMIUMBOx1OTH_OWNERS": {
+    "PREMIUMBOx1O1TH_OWNERS": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "PremiumBooth",
     "MaxUses": 5
   },
-    "BOOTHxx1_HORSE_N2026X": {
+    "BOOTHxx1_HOR3SE_N2026X": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "Booth_Horse",
     "MaxUses": 15
   },
-    "VOLCANOBOOTH332_1": {
+    "VOLC3ANOBOOTH332_1": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "Volcano_1",
     "MaxUses": 15
   },
-    "VOLCANOx1_EXTRA_NEW205": {
+    "VOLCANOx1_EX1TRA_NEW205": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "Volcano_2",
     "MaxUses": 10
   },
-    "_Gax2laxyXTWR_B25": {
+    "_G1ax2laxyXTWR_B25": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "B_Galaxy",
     "MaxUses": 25
   },
-    "_CinnRx1LDX_Stand": {
+    "_Cinn3Rx1LDX_Stand": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "CinRStand",
     "MaxUses": 35
   },
-    "_BlAatx3Skin_V2": {
+    "_BlAa1tx3Skin_V2": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "Blyat",
     "MaxUses": 35
   },
-    "_SsSpeedXXTool_552": {
+    "_SsSpe3edXXTool_552": {
     "Active": true,
     "RewardType": "Tool",
     "RewardValue": "Speed",
     "MaxUses": 35
   },
-  "EchoPNT5x10_OFF": {
+  "EchoPNT51x10_OFF": {
     "Active": false,
     "RewardType": "Points",
     "RewardValue": 50
@@ -102,13 +104,13 @@
     "RewardValue": "Summer_BOOTH",
     "MaxUses": 25
   },
-  "_GoldHMRXx3_2025": {
+  "_GoldH3MRXx3_2025": {
   "Active": true,
   "RewardType": "Tool",
   "RewardValue": "Gold_Hammer",
   "MaxUses": 10
   },
-  "_TorchPXNx1T25_LTD": {
+  "_TorchPXNx11T25_LTD": {
     "Active": true,
     "RewardType": "Points",
     "RewardValue": 25,
