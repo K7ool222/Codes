@@ -12,7 +12,7 @@
     "MaxUses": 50
   },
     "ALDHMSHII": {
-    "Active": false,
+    "Active": true,
     "RewardType": "Points",
     "RewardValue": 250,
     "MaxUses": 1,
