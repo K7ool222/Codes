@@ -15,7 +15,9 @@
     "Active": false,
     "RewardType": "Points",
     "RewardValue": 250,
-    "MaxUses": 25
+    "MaxUses": 1,
+    "GroupId": 11449191,
+    "MinRank": 120
   },
   "_UFOXbooth1x_X15": {
     "Active": true,
