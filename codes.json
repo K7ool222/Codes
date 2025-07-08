@@ -1,0 +1,119 @@
+{
+  "PO1xINTS_VIPERCDA255": {
+    "Active": true,
+    "RewardType": "Points",
+    "RewardValue": 10,
+    "MaxUses": 20
+  },
+    "D1EVABxOSOLO_2_1XC": {
+    "Active": true,
+    "RewardType": "Points",
+    "RewardValue": 25,
+    "MaxUses": 50
+  },
+    "ALDHMSHII_v5_Staff_Only": {
+    "Active": true,
+    "RewardType": "Points",
+    "RewardValue": 250,
+    "MaxUses": 25,
+    "GroupId": 11449191,
+    "MinRank": 120
+  },
+  "UFx1O_BOOTH!N55": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "UFO_BOOTH",
+    "MaxUses": 15
+  },
+    "BExAC3HBSUMMER96X": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Beach_Booth",
+    "MaxUses": 15
+  },
+    "MODxER1NBOO!99TH": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Modern_Booth",
+    "MaxUses": 15,
+     "GroupId": 11449191,
+    "MinRank": 60
+  },
+    "VALA3NTIxNEEB992_24": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "ValantineBooth",
+    "MaxUses": 15
+  },
+    "PRxEM1IUMB_SPECIAL995": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "PremiumBooth",
+    "MaxUses": 5
+  },
+    "HOxRSEBV3ANDAPANDA25": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Booth_Horse",
+    "MaxUses": 15
+  },
+    "VOLxCA1NOOB995_BO": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Volcano_1",
+    "MaxUses": 15
+  },
+    "VOxLC_39863!$": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Volcano_2",
+    "MaxUses": 10
+  },
+    "_GA3LxA1XYT_B_D25": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "B_Galaxy",
+    "MaxUses": 25
+  },
+    "CIN1xROLLE_B_9952!": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "CinRStand",
+    "MaxUses": 35
+  },
+    "PLAYERSKINB93_BOOTH": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Blyat",
+    "MaxUses": 35
+  },
+    "SPEE2D912_DONATE!": {
+    "Active": true,
+    "RewardType": "Tool",
+    "RewardValue": "Speed",
+    "MaxUses": 35
+  },
+  "EchoPNT351xx10_OFF": {
+    "Active": false,
+    "RewardType": "Points",
+    "RewardValue": 50
+  },
+  "SUMM1xER_BoO1Th": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "Summer_BOOTH",
+    "MaxUses": 25
+  },
+  "_GOLD_T3OOdLHAMMER9611!": {
+  "Active": true,
+  "RewardType": "Tool",
+  "RewardValue": "Gold_Hammer",
+  "MaxUses": 10
+  },
+  "_TorchP1a3XNxx11T25_LTD": {
+    "Active": true,
+    "RewardType": "Points",
+    "RewardValue": 25,
+    "MaxUses": 10
+  }
+}
